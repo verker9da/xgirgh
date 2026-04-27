@@ -179,7 +179,37 @@
       "german": "Deine Mühe, wird sich lohnen.",
       "category": "Perseverance",
       "generated_at": "2026-04-27T09:33:48.697648"
+    },
+    {
+      "english": "I'm sorry, really.",
+      "german": "Es tut mir leid, wirklich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-27T17:51:40.499059"
+    },
+    {
+      "english": "Please forgive me, okay?",
+      "german": "Bitte verzeih mir, ja?",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-27T17:51:40.499064"
+    },
+    {
+      "english": "My mistake, I admit.",
+      "german": "Mein Fehler, ich gebe zu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-27T17:51:40.499066"
+    },
+    {
+      "english": "Can we move past this?",
+      "german": "Können wir das hinter uns lassen?",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-27T17:51:40.499067"
+    },
+    {
+      "english": "I regret it, truly.",
+      "german": "Ich bedauere es, aufrichtig.",
+      "category": "Forgiveness",
+      "generated_at": "2026-04-27T17:51:40.499068"
     }
   ],
-  "last_updated": "2026-04-27T09:33:48.697649"
+  "last_updated": "2026-04-27T17:51:40.499070"
 }
