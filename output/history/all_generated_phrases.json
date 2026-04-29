@@ -359,7 +359,37 @@
       "german": "Hab keine Angst, versuch's einfach.",
       "category": "Wisdom",
       "generated_at": "2026-04-29T09:24:37.181064"
+    },
+    {
+      "english": "So happy, right now.",
+      "german": "So froh, jetzt.",
+      "category": "Joy",
+      "generated_at": "2026-04-29T18:04:36.044340"
+    },
+    {
+      "english": "What a lovely day!",
+      "german": "Was für ein schöner Tag!",
+      "category": "Joy",
+      "generated_at": "2026-04-29T18:04:36.044350"
+    },
+    {
+      "english": "Feeling great, truly.",
+      "german": "Fühle mich toll, wirklich.",
+      "category": "Joy",
+      "generated_at": "2026-04-29T18:04:36.044352"
+    },
+    {
+      "english": "This is wonderful!",
+      "german": "Das ist wunderbar!",
+      "category": "Joy",
+      "generated_at": "2026-04-29T18:04:36.044353"
+    },
+    {
+      "english": "Pure joy, yes!",
+      "german": "Pure Freude, ja!",
+      "category": "Joy",
+      "generated_at": "2026-04-29T18:04:36.044354"
     }
   ],
-  "last_updated": "2026-04-29T09:24:37.181067"
+  "last_updated": "2026-04-29T18:04:36.044356"
 }
