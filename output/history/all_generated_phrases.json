@@ -419,7 +419,37 @@
       "german": "Das bringt mich zum Lächeln, sehr!",
       "category": "Joy",
       "generated_at": "2026-04-29T20:20:03.561578"
+    },
+    {
+      "english": "Be brave, try new things.",
+      "german": "Sei mutig, probier Neues.",
+      "category": "Courage",
+      "generated_at": "2026-04-30T07:35:30.848955"
+    },
+    {
+      "english": "Face your fears, stand tall.",
+      "german": "Stell dich deinen Ängsten, steh auf.",
+      "category": "Courage",
+      "generated_at": "2026-04-30T07:35:30.848964"
+    },
+    {
+      "english": "Take a leap, believe in you.",
+      "german": "Mach einen Sprung, glaub an dich.",
+      "category": "Courage",
+      "generated_at": "2026-04-30T07:35:30.848966"
+    },
+    {
+      "english": "Bold steps, lead to success.",
+      "german": "Mutige Schritte, führen zum Erfolg.",
+      "category": "Courage",
+      "generated_at": "2026-04-30T07:35:30.848967"
+    },
+    {
+      "english": "Don't hesitate, just begin.",
+      "german": "Zögere nicht, fang einfach an.",
+      "category": "Courage",
+      "generated_at": "2026-04-30T07:35:30.848968"
     }
   ],
-  "last_updated": "2026-04-29T20:20:03.561579"
+  "last_updated": "2026-04-30T07:35:30.848970"
 }
