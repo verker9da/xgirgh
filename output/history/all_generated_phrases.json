@@ -539,7 +539,37 @@
       "german": "Jeder Schritt zählt.",
       "category": "Courage",
       "generated_at": "2026-04-30T20:19:01.422921"
+    },
+    {
+      "english": "Learn German, step by step.",
+      "german": "Deutsch lernen, Schritt für Schritt.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-30T22:13:38.426924"
+    },
+    {
+      "english": "Practice daily, grow stronger.",
+      "german": "Täglich üben, stärker werden.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-30T22:13:38.426933"
+    },
+    {
+      "english": "Understand context, not just words.",
+      "german": "Kontext verstehen, nicht nur Worte.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-30T22:13:38.426934"
+    },
+    {
+      "english": "Read a lot, write a little.",
+      "german": "Viel lesen, wenig schreiben.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-30T22:13:38.426935"
+    },
+    {
+      "english": "Ask questions, seek answers.",
+      "german": "Fragen stellen, Antworten suchen.",
+      "category": "Wisdom",
+      "generated_at": "2026-04-30T22:13:38.426937"
     }
   ],
-  "last_updated": "2026-04-30T20:19:01.422922"
+  "last_updated": "2026-04-30T22:13:38.426938"
 }
