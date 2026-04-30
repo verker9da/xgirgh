@@ -479,7 +479,37 @@
       "german": "Mach weiter, du verbesserst dich.",
       "category": "Confidence",
       "generated_at": "2026-04-30T09:26:56.839016"
+    },
+    {
+      "english": "You can do it, don't give up.",
+      "german": "Du schaffst das, gib nicht auf.",
+      "category": "Confidence",
+      "generated_at": "2026-04-30T17:53:09.114317"
+    },
+    {
+      "english": "Every step counts, keep going.",
+      "german": "Jeder Schritt zählt, mach weiter.",
+      "category": "Confidence",
+      "generated_at": "2026-04-30T17:53:09.114328"
+    },
+    {
+      "english": "Believe in yourself, you're strong.",
+      "german": "Glaube an dich, du bist stark.",
+      "category": "Confidence",
+      "generated_at": "2026-04-30T17:53:09.114329"
+    },
+    {
+      "english": "Don't be afraid, try your best.",
+      "german": "Hab keine Angst, gib dein Bestes.",
+      "category": "Confidence",
+      "generated_at": "2026-04-30T17:53:09.114330"
+    },
+    {
+      "english": "You are learning, grow each day.",
+      "german": "Du lernst dazu, wachse jeden Tag.",
+      "category": "Confidence",
+      "generated_at": "2026-04-30T17:53:09.114331"
     }
   ],
-  "last_updated": "2026-04-30T09:26:56.839018"
+  "last_updated": "2026-04-30T17:53:09.114333"
 }
