@@ -929,7 +929,37 @@
       "german": "Kopf hoch, du schaffst das.",
       "category": "Hope",
       "generated_at": "2026-05-03T08:18:53.147965"
+    },
+    {
+      "english": "Share your joy, openly.",
+      "german": "Teile deine Freude, offen.",
+      "category": "Kindness",
+      "generated_at": "2026-05-03T18:38:36.577652"
+    },
+    {
+      "english": "Be patient, with all.",
+      "german": "Sei geduldig, mit jedem.",
+      "category": "Kindness",
+      "generated_at": "2026-05-03T18:38:36.577659"
+    },
+    {
+      "english": "Offer a hand, gently.",
+      "german": "Biete eine Hand, sanft.",
+      "category": "Kindness",
+      "generated_at": "2026-05-03T18:38:36.577660"
+    },
+    {
+      "english": "Show empathy, always.",
+      "german": "Zeige Mitgefühl, stets.",
+      "category": "Kindness",
+      "generated_at": "2026-05-03T18:38:36.577661"
+    },
+    {
+      "english": "A kind word, matters.",
+      "german": "Ein freundliches Wort, zählt.",
+      "category": "Kindness",
+      "generated_at": "2026-05-03T18:38:36.577662"
     }
   ],
-  "last_updated": "2026-05-03T08:18:53.147967"
+  "last_updated": "2026-05-03T18:38:36.577667"
 }
