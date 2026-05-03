@@ -899,7 +899,37 @@
       "german": "Ein Tag nach dem anderen.",
       "category": "Perseverance",
       "generated_at": "2026-05-03T00:09:35.916083"
+    },
+    {
+      "english": "Tomorrow is another day, full of possibility.",
+      "german": "Morgen ist ein neuer Tag, voller Möglichkeit.",
+      "category": "Hope",
+      "generated_at": "2026-05-03T08:18:53.147950"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "german": "Glaube an dich, immerzu.",
+      "category": "Hope",
+      "generated_at": "2026-05-03T08:18:53.147957"
+    },
+    {
+      "english": "A little step, forward is progress.",
+      "german": "Ein kleiner Schritt, vorwärts ist Fortschritt.",
+      "category": "Hope",
+      "generated_at": "2026-05-03T08:18:53.147963"
+    },
+    {
+      "english": "The sun will shine, again soon.",
+      "german": "Die Sonne scheint, bald wieder.",
+      "category": "Hope",
+      "generated_at": "2026-05-03T08:18:53.147964"
+    },
+    {
+      "english": "Keep your chin up, you can do it.",
+      "german": "Kopf hoch, du schaffst das.",
+      "category": "Hope",
+      "generated_at": "2026-05-03T08:18:53.147965"
     }
   ],
-  "last_updated": "2026-05-03T00:09:35.916084"
+  "last_updated": "2026-05-03T08:18:53.147967"
 }
