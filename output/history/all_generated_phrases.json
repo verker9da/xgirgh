@@ -1229,7 +1229,37 @@
       "german": "Lass los, von Sorgen, heute.",
       "category": "Mindfulness",
       "generated_at": "2026-05-07T10:11:25.001919"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "german": "Danke, für alles.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-07T18:16:58.701448"
+    },
+    {
+      "english": "I really appreciate it.",
+      "german": "Ich weiß das sehr zu schätzen.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-07T18:16:58.701458"
+    },
+    {
+      "english": "You are so kind.",
+      "german": "Du bist sehr nett.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-07T18:16:58.701459"
+    },
+    {
+      "english": "That's very thoughtful.",
+      "german": "Das ist sehr aufmerksam.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-07T18:16:58.701460"
+    },
+    {
+      "english": "I'm grateful, truly.",
+      "german": "Ich bin dankbar, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-07T18:16:58.701461"
     }
   ],
-  "last_updated": "2026-05-07T10:11:25.001920"
+  "last_updated": "2026-05-07T18:16:58.701463"
 }
