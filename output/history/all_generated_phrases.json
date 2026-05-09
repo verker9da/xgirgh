@@ -1289,7 +1289,37 @@
       "german": "Mehr verstehen, jeden Tag.",
       "category": "Success",
       "generated_at": "2026-05-08T05:48:48.026989"
+    },
+    {
+      "english": "Good friends, forever friends.",
+      "german": "Gute Freunde, für immer Freunde.",
+      "category": "Friendship",
+      "generated_at": "2026-05-09T07:28:11.320381"
+    },
+    {
+      "english": "You're my best friend.",
+      "german": "Du bist mein bester Freund.",
+      "category": "Friendship",
+      "generated_at": "2026-05-09T07:28:11.320389"
+    },
+    {
+      "english": "Thanks for being there.",
+      "german": "Danke, dass du da bist.",
+      "category": "Friendship",
+      "generated_at": "2026-05-09T07:28:11.320391"
+    },
+    {
+      "english": "We have fun together.",
+      "german": "Wir haben Spaß zusammen.",
+      "category": "Friendship",
+      "generated_at": "2026-05-09T07:28:11.320392"
+    },
+    {
+      "english": "A true friend, always.",
+      "german": "Ein wahrer Freund, immer.",
+      "category": "Friendship",
+      "generated_at": "2026-05-09T07:28:11.320393"
     }
   ],
-  "last_updated": "2026-05-08T05:48:48.026991"
+  "last_updated": "2026-05-09T07:28:11.320395"
 }
