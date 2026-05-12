@@ -1469,7 +1469,37 @@
       "german": "Du schaffst das.",
       "category": "Inspiration",
       "generated_at": "2026-05-11T22:35:17.724635"
+    },
+    {
+      "english": "I'm sorry, for everything.",
+      "german": "Es tut mir leid, für alles.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T10:30:53.092894"
+    },
+    {
+      "english": "Please, forgive me now.",
+      "german": "Bitte, vergib mir jetzt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T10:30:53.092902"
+    },
+    {
+      "english": "Can you, let this go?",
+      "german": "Kannst du, das loslassen?",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T10:30:53.092903"
+    },
+    {
+      "english": "I hope, you understand.",
+      "german": "Ich hoffe, du verstehst.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T10:30:53.092904"
+    },
+    {
+      "english": "It was a mistake, truly.",
+      "german": "Es war ein Fehler, wirklich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-12T10:30:53.092905"
     }
   ],
-  "last_updated": "2026-05-11T22:35:17.724636"
+  "last_updated": "2026-05-12T10:30:53.092907"
 }
