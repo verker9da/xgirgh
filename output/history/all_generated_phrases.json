@@ -1799,7 +1799,37 @@
       "german": "Übung macht Fortschritt, nicht Perfektion.",
       "category": "Confidence",
       "generated_at": "2026-07-23T06:26:58.280450"
+    },
+    {
+      "english": "Be brave, try again.",
+      "german": "Sei mutig, versuch's nochmal.",
+      "category": "Courage",
+      "generated_at": "2026-07-23T13:35:15.237215"
+    },
+    {
+      "english": "Take a deep breath, you can do it.",
+      "german": "Atme tief durch, du schaffst das.",
+      "category": "Courage",
+      "generated_at": "2026-07-23T13:35:15.237224"
+    },
+    {
+      "english": "Don't give up, keep going.",
+      "german": "Gib nicht auf, mach weiter.",
+      "category": "Courage",
+      "generated_at": "2026-07-23T13:35:15.237226"
+    },
+    {
+      "english": "Face your fears, step forward.",
+      "german": "Stell dich deinen Ängsten, geh voran.",
+      "category": "Courage",
+      "generated_at": "2026-07-23T13:35:15.237227"
+    },
+    {
+      "english": "Believe in yourself, you are strong.",
+      "german": "Glaub an dich, du bist stark.",
+      "category": "Courage",
+      "generated_at": "2026-07-23T13:35:15.237228"
     }
   ],
-  "last_updated": "2026-07-23T06:26:58.280452"
+  "last_updated": "2026-07-23T13:35:15.237230"
 }
